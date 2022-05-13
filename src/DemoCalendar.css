@@ -1,0 +1,22 @@
+.dot {
+    background-color:yellow;
+    width: 15px;
+    height: 15px;
+    margin-right: 2px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .green {
+    background-color: green;
+    width: 15px;
+    height: 15px;
+    margin-right: 2px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+
+  .fc-month-view .fc-event-container{
+    display: none;
+}
